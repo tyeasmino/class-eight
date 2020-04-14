@@ -1,0 +1,30 @@
+this is an example of external css
+h5, h1, h6 {
+				text-align: right;
+				text-transform: uppercase;
+				color: blue;
+			}
+p{
+	color: red;
+}
+p{
+	color: blue;
+}
+
+.rabby{
+	background: green;
+	font-size: 25px;
+}
+
+#rabby{
+	background: skyblue;
+}
+
+.simple {
+	width: 500px;
+	background: pink;
+	margin-top: 50px;
+	margin-left: 50px;
+	padding: 30px;
+	border: 10px solid black;
+}
